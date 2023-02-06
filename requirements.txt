@@ -1,2 +1,4 @@
-Flask==2.2.2
+Jinja2==2.4
+Werkzeug==0.7
+Flask==0.10.1
 
